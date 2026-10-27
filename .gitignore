@@ -3,3 +3,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+out_01.json
+scratch_match.py
+.vscode/
+/extracted/
+/evaluation_runs/
